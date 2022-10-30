@@ -1,0 +1,84 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 800px;
+    background: hsla(268, 23%, 43%, 1);
+    background-image: linear-gradient(to top, #201e69, #263783, #2e519c, #376bb4, #4485cc, #2c9cdd, #0bb2ea, #00c8f3, #00dce4, #00ebb9, #80f37c, #ddf13d);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#6C5587", endColorstr="#F86594", GradientType=1 );
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .col-md-6{
+    border-radius: 4px 15px 4px 15px;
+    
+  }
+  
+  .needs-validation {
+    padding: 10px;
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+    border-radius: 4px 15px 4px 15px;
+    font-family: "Comforter Brush", cursive;
+    font-family: "Dancing Script", cursive;
+    font-family: "Fuzzy Bubbles", cursive;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
+    background: rgb(151, 151, 151);
+    background-image: linear-gradient(to top, #201e69, #263783, #2e519c, #376bb4, #4485cc, #2c9cdd, #0bb2ea, #00c8f3, #00dce4, #00ebb9, #80f37c, #ddf13d);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#6C5587", endColorstr="#F86594", GradientType=1 );
+    border: 1px solid rgb(17, 11, 11);
+    box-shadow: 10px 10px 5px rgb(27, 33, 36);
+    background: transparent;
+  }
+  .gender-form-check {
+    display: flex;
+    /* background: red; */
+    /* max-width: 600px; */
+    margin-top: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+  }
+  
+  .gender-option {
+    margin-left: 5px;
+    
+  }
+  .country {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn {
+    border-radius: 4px 15px 4px 15px;
+   
+    
+  }
+ /* .invalid-feedback{
+      display:none
+  } */
+  
+   
+   
+
+  
+  
+  
+ 
+  
+  
+
